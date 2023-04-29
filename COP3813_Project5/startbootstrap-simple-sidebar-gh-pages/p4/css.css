@@ -1,0 +1,54 @@
+/* Style for the board table */
+#tictaktoe, table, td[indicator='1']{ /*Changing style of X and O*/
+    color: rgb(144,138,153);
+    font-family: Stencil Std, fantasy
+}
+table {
+  border-collapse: collapse;
+  margin: auto;
+  background-color: rgb(33,26,33);
+  border-spacing: 0px;
+}
+
+
+td {  /*Format of table*/
+  height: 150px;
+  width: 150px;
+  font-size: 5em;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  border-width: 3px;
+  border-color: rgb(181,182,228);
+  border-style: solid;
+}
+
+body {
+  background-color: rgb(79,67,174);
+}
+
+/* Style for the winning combination */
+td.winner {
+  background-color: yellow;
+}
+
+h1 {
+ text-align: center;
+ font-family: Stencil Std, fantasy;
+ font-size: 50px;
+}
+
+#clear{
+display: block;
+text-align: center;
+}
+
+button {  /*Making button format similar to everything else*/
+  margin-top: 20px;
+  height: 40px;
+  width: 90px;
+  font-family: Stencil Std, fantasy;
+  background-color: rgb(181,182,228);
+  border-style: solid;
+  font-size: 30px;
+}

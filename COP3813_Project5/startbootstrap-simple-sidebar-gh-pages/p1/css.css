@@ -1,0 +1,60 @@
+h1  {
+    margin-bottom: 0px;
+}
+h2  {
+    margin-bottom: 1px;
+    font-style: underline;
+    text-decoration: underline;
+}
+#degree{
+    font-style: italic;
+    margin-top: 1px;
+    margin-bottom: -10px;
+}
+#job1{
+    font-style: italic;
+    margin-top: 1px;
+    margin-bottom: -10px;
+}
+#school{
+    font-weight: bold;
+}
+#company1{
+    font-weight: bold;
+    margin-top: 10px;
+}
+#company2{
+    font-weight: bold;
+}
+#job2{
+    font-style: italic;
+    margin-top: 1px;
+    margin-bottom: -10px;
+}
+#skill{
+    margin-top: 1px;
+}
+div{
+    border: 1px solid black;
+}
+#grad{
+float: right;
+}
+#ar_info{
+float: right;
+}
+#cj_info{
+float: right;
+}
+th, tr{
+border:2px solid black;
+font-size: 30pt;
+}
+p{
+font-size: 15pt;
+margin-right: 10;
+}
+img{
+float: left;
+margin-bottom: 0;
+}

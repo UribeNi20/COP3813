@@ -1,0 +1,53 @@
+  body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #AD7BE9;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 {
+    background-color: #AD7BE9;
+    color: #ffffff;
+  }
+  .bg-2 {
+    background-color: #3E54AC;
+    color: #ffffff;
+  }
+  .bg-3 {
+    background-color: #ffffff;
+    color: #555555;
+  }
+  .bg-4 {
+    background-color: #BFDCE5;
+    color: #000000;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+  #explain {
+  font: 16px Montserrat, sans-serif;
+  }
+  #job {
+  font: 18px Montserrat, sans-serif;
+  font-style: italic;
+  }
+  #os {
+    font: 16px Montserrat, sans-serif;
+    font-weight: bolder;
+  }
+  #skillz {
+  line-height: 30px;
+  }
